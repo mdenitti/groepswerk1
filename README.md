@@ -6,7 +6,7 @@ Bear is a beautiful, flexible app for crafting notes and prose. It’s easy to g
 ## Bear has three parts 🐻
 Bear has three main columns where you create, edit, and organize your notes.
 
-[image:SFNoteIntro0_File1/Bear 3 columns.png]
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 
 * *Sidebar* (on the left): when you add tags anywhere in your notes, Bear will collect them in this sidebar. Think of them like folders you can create and use on the fly, while you write.
